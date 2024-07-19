@@ -1,4 +1,10 @@
 streamlit
 pandas
-fpdf
+datetime
+sqlite3
 locale
+os
+sys
+fpdf
+time
+
